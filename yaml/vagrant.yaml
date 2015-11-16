@@ -126,4 +126,3 @@ variables:
  vagrant: vagrant
  guest_additions: virtualbox
  flavor: SpinBase
-

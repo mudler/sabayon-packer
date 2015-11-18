@@ -1,4 +1,3 @@
-#https://github.com/aostanin/packer-templates/blob/master/gentoo/make.py
 #! /usr/bin/env python3
 
 import json

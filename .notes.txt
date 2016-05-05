@@ -1,0 +1,19 @@
+provision.sh to call from base Scrits dir ,
+really IN-elagant to clone to other DIRS 
+but meh it'll work. for now. just for a Atlus run (MMM Lazyness) 
+I can have a daily ready to go for testing on demand, I need a victum box from time to time to abuse
+not having to build it even better
+
+Goal ADDED Templates would call these , and so one can prun fluff from added FLAVOR DIRS
+.//sabayon-packer/scripts
+.//sabayon-packer/provision.sh
+
+perhaps in time Mudler Will add 
+thus so ONE TEMPLATE to rule them all.
+
+
+DEV-FLAVORS=TRUE/FLASE
+DEV-FLAVOR=MY-flavor (XFCE,KDE,ETC)
+DESKTOP-FLAVORS=TRUE/FLASE
+*-flavor=etc
+FLAVOR-BASES (current.) set of vars.  
